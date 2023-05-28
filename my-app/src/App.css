@@ -2,3 +2,22 @@
     margin: 0px;
     padding: 0px;
 }
+.input{
+    text-align: center;
+    padding: 5px;
+    border: none;
+    border-bottom: 3px solid black;
+    font-weight: 400;
+    font-family: cursive;
+}
+.btn{
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    font-family: cursive;
+    border: none;
+}
+.btn:hover{
+    background-color:aliceblue
+}
